@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
-import { faFileAlt, faEnvelope } from '@fortawesome/free-solid-svg-icons';
+import { faFileAlt, faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
 import './ContactLinks.css';
 
 const ContactLinks = () => {
