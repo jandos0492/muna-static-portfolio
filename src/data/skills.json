@@ -1,0 +1,14 @@
+[
+  { "id": 1, "img": "images/selenium.png", "title": "Selenium", "link": "https://www.selenium.dev/selenium/docs/api/java/overview-summary.html" },
+  { "id": 2, "img": "images/rest-assured.png", "title": "Rest Assured", "link": "https://rest-assured.io/" },
+  { "id": 3, "img": "images/jdbc.png", "title": "JDBC", "link": "https://www.cs.princeton.edu/courses/archive/fall97/cs461/jdkdocs/guide/jdbc/getstart/introTOC.doc.html" },
+  { "id": 4, "img": "images/postman.svg", "title": "Postman", "link": "https://www.postman.com/api-documentation-tool/" },
+  { "id": 5, "img": "images/java.svg", "title": "Java", "link": "https://docs.oracle.com/en/java/" },
+  { "id": 6, "img": "images/sql.jpg", "title": "SQL", "link": "https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" },
+  { "id": 7, "img": "images/maven.jpg", "title": "Maven", "link": "https://maven.apache.org/guides/index.html" },
+  { "id": 8, "img": "images/jenkins.png", "title": "Jenkins", "link": "https://www.jenkins.io/doc/" },
+  { "id": 9, "img": "images/cucember.png", "title": "Cucumber", "link": "https://cucumber.io/docs/cucumber/" },
+  { "id": 10, "img": "images/scrum.png", "title": "Scrum", "link": "https://www.scrum.org/resources/scrum-guide" },
+  { "id": 11, "img": "images/aws.png", "title": "AWS", "link": "https://docs.aws.amazon.com/" },
+  { "id": 12, "img": "images/git.png", "title": "Git", "link": "https://git-scm.com/doc" }
+]
