@@ -62,6 +62,19 @@ const ContactLinks = () => {
           {activeLink === 'Email' && <span className="link-text">Email</span>}
         </a>
       </div>
+      <div
+        className="contact-link"
+        onMouseEnter={() => setActiveLink("Call")}
+        onMouseLeave={() => setActiveLink("")}
+      >
+        <a
+          href="tel:+17187444588"
+          target="_blank" rel="noopener noreferrer"
+          className='link-content'>
+          <FontAwesomeIcon icon={faPhone} size={iconSize} />
+          {activeLink === "Call" && <span className='link-text'>Call</span>}
+        </a>
+      </div>
     </div>
   );
 };
